@@ -1,0 +1,812 @@
+INFO:root:
+
+2023-09-19 20:41:46.777106: resp.url: https://steamcommunity.com/market/search?q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0&q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0 link: https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Asiimov%20%28Factory%20New%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+WARNING:root:2023-09-19 20:41:48.982103 FLOAT ERROR Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:
+
+2023-09-19 20:41:48.003998 id: 6248237772879444146: 0.06980881094932556 price: 266.14 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+WARNING:root:2023-09-19 20:41:49.795029 FLOAT ERROR Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:
+
+2023-09-19 20:41:48.985092 id: 6247111607271692635: 0.06860178709030151 price: 271.13 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+WARNING:root:2023-09-19 20:41:50.511453 FLOAT ERROR Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:
+
+2023-09-19 20:41:49.795742 id: 6618658576273706918: 0.0664747953414917 price: 271.8 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:
+
+2023-09-19 20:41:50.511453 id: 6275259370629710994: 0.05981910973787308 price: 271.11 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+WARNING:root:2023-09-19 20:42:52.904670 FLOAT ERROR Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:
+
+2023-09-19 20:42:51.951248 id: 5911593434846956638: 0.05837829038500786 price: 280.96 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+WARNING:root:2023-09-19 20:42:53.582315 FLOAT ERROR Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:
+
+2023-09-19 20:42:52.904670 id: 4322947123419118019: 0.056732069700956345 price: 301.15 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+WARNING:root:2023-09-19 20:42:54.684606 FLOAT ERROR Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:
+
+2023-09-19 20:42:53.582315 id: 5857550239180656315: 0.0699215829372406 price: 311.65 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:
+
+2023-09-19 20:42:54.685440 id: 4301553757614412949: 0.056708283722400665 price: 308.89 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+WARNING:root:2023-09-19 20:43:56.836462 FLOAT ERROR Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:
+
+2023-09-19 20:43:56.135674 id: 4285786084703015886: 0.06998734176158905 price: 319.96 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+WARNING:root:2023-09-19 20:43:57.698520 FLOAT ERROR Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:
+
+2023-09-19 20:43:56.837460 id: 4312807682417632244: 0.0698782354593277 price: 330.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-19 20:46:05.006905: resp.url: https://steamcommunity.com/market/search?q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0&q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0 link: https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Asiimov%20%28Factory%20New%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+WARNING:root:2023-09-19 20:46:07.530392 FLOAT ERROR Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 20:46:06.517922 id: 6248237772879444146: 0.06980881094932556 price: 266.14 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 20:46:40.044730: resp.url: https://steamcommunity.com/market/search?q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0&q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0 link: https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Asiimov%20%28Factory%20New%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-19 20:46:40.685371 id: 6248237772879444146: 0.06980881094932556 price: 266.14 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 20:46:41.653242 id: 6247111607271692635: 0.06860178709030151 price: 271.13 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 20:47:43.132978 id: 6618658576273706918: 0.0664747953414917 price: 271.8 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 20:47:44.056866 id: 6275259370629590904: 0.05981910973787308 price: 271.11 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 20:47:44.996273 id: 5911593434846956638: 0.05837829038500786 price: 280.96 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 20:47:45.684727 id: 4322947123419118019: 0.056732069700956345 price: 301.15 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 20:48:46.834807 id: 5857550239180656315: 0.0699215829372406 price: 311.65 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 20:48:47.706704 id: 4301553757614412949: 0.056708283722400665 price: 308.89 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 20:49:49.040135 id: 4285786084703015886: 0.06998734176158905 price: 319.96 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 20:49:49.825843 id: 4312807682417632244: 0.0698782354593277 price: 330.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 20:49:50.540099 id: 6512818269874828632: 0.06989195942878723 price: 332.86 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 20:50:51.643472 id: 4298170983657320186: 0.05656341090798378 price: 343.71 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 20:51:52.995332 id: 4295918549668818775: 0.06764120608568192 price: 367.93 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 20:51:53.802246 id: 4342086788537604780: 0.050388358533382416 price: 399.92 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 20:51:54.683550 id: 4306052282999954069: 0.053748391568660736 price: 413.24 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 20:52:55.854658 id: 4309430617654721227: 0.06981024146080017 price: 458.18 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+WARNING:root:2023-09-19 20:53:57.345922 id: 6394589087020554899: Error Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 20:53:57.346923 id: 4336449678686589286: 0.05017120763659477 price: 509.64 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 20:53:58.862847 id: 4310562953165039342: 0.050033729523420334 price: 1.351 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 20:54:12.329355 id: 6248237772879444146: 0.06980881094932556 price: 266.14 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-19 20:54:13.274812 id: 6247111607271692635: 0.06860178709030151 price: 271.13 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-19 20:54:14.165782 id: 6618658576273706918: 0.0664747953414917 price: 271.8 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-19 20:54:15.134447 id: 6275259370629841194: 0.05981910973787308 price: 271.11 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-19 20:54:16.088054 id: 5911593434846956638: 0.05837829038500786 price: 280.96 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-19 20:54:17.100856 id: 4322947123419118019: 0.056732069700956345 price: 301.15 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-19 20:54:17.903830 id: 5857550239180656315: 0.0699215829372406 price: 311.65 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-19 20:54:18.542695 id: 4301553757614412949: 0.056708283722400665 price: 308.89 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-19 20:55:20.031355 id: 4285786084703015886: 0.06998734176158905 price: 319.96 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-19 20:55:20.944109 id: 4312807682417632244: 0.0698782354593277 price: 330.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-19 20:55:21.637913 id: 6512818269874828632: 0.06989195942878723 price: 332.86 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-19 21:00:11.227359: resp.url: https://steamcommunity.com/market/search?q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0&q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0 link: https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Asiimov%20%28Factory%20New%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 21:00:13.108976: resp.url: https://steamcommunity.com/market/search?q=P2000+%7C+%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%81+(%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D0%BE%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5)&q=P2000+%7C+%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%81+%28%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D0%BE%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%29 link: https://steamcommunity.com/market/listings/730/P2000%20%7C%20Coach%20Class%20%28Minimal%20Wear%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 21:00:14.900204 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 6248237772879444146: 0.06980881094932556 price: 266.14 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 21:00:15.870478 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 6247111607271692635: 0.06860178709030151 price: 271.13 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 21:00:16.489035 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 6618658576273706918: 0.0664747953414917 price: 271.8 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 21:01:18.796301 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 6275259370629841194: 0.05981910973787308 price: 271.11 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+WARNING:root:2023-09-19 21:02:20.781594 id: 5911593434846956638: Error Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 21:02:20.781594 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 4322947123419118019: 0.056732069700956345 price: 301.15 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 21:02:23.136282 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 5857550239180656315: 0.0699215829372406 price: 311.65 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 21:02:23.998177 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 4301553757614412949: 0.056708283722400665 price: 308.89 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 21:02:24.798446 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 4285786084703015886: 0.06998734176158905 price: 319.96 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 21:02:25.687251 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 4312807682417632244: 0.0698782354593277 price: 330.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 21:02:27.164541 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 6512818269874828632: 0.06989195942878723 price: 332.86 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 21:02:28.321396 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 4298170983657320186: 0.05656341090798378 price: 343.71 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 21:02:29.007817 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 4295918549668818775: 0.06764120608568192 price: 367.93 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 21:02:30.359966 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 4342086788537604780: 0.050388358533382416 price: 399.92 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 21:02:31.318306 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 4306052282999954069: 0.053748391568660736 price: 413.24 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 21:02:32.542843 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 4309430617654721227: 0.06981024146080017 price: 458.18 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 21:02:33.700556 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 6394589087020554899: 0.06998903304338455 price: 489.35 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 21:02:34.589783 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 4336449678686589286: 0.05017120763659477 price: 509.64 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 21:03:35.773571 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 4310562953165039342: 0.050033729523420334 price: 1.351 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-19 21:03:47.303925 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 6248237772879444146: 0.06980881094932556 price: 266.14 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-19 21:03:47.896944 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 6247111607271692635: 0.06860178709030151 price: 271.13 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-19 21:03:48.614950 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 6618658576273706918: 0.0664747953414917 price: 271.8 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-19 21:04:49.819501 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 6275259370629841194: 0.05981910973787308 price: 271.11 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-19 21:04:50.600641 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 5911593434846956638: 0.05837829038500786 price: 280.96 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-19 21:05:51.759780 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 4322947123419118019: 0.056732069700956345 price: 301.15 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-19 21:05:52.592911 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 5857550239180656315: 0.0699215829372406 price: 311.65 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-19 21:06:55.023669 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 4301553757614412949: 0.056708283722400665 price: 308.89 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-19 21:06:55.904833 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 4285786084703015886: 0.06998734176158905 price: 319.96 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-19 21:06:56.678181 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 4312807682417632244: 0.0698782354593277 price: 330.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-19 21:08:00.562525 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 6512818269874828632: 0.06989195942878723 price: 332.86 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-19 21:08:01.791224 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 4298170983657320186: 0.05656341090798378 price: 343.71 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-19 21:08:02.540999 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 4295918549668818775: 0.06764120608568192 price: 367.93 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-19 21:18:17.076739: resp.url: https://steamcommunity.com/market/search?q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0&q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0 link: https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Asiimov%20%28Factory%20New%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.28:30013/'}
+INFO:root:2023-09-19 21:18:18.231130: resp.url: https://steamcommunity.com/market/search?q=P2000+%7C+%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%81+(%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D0%BE%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5)&q=P2000+%7C+%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%81+%28%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D0%BE%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%29 link: https://steamcommunity.com/market/listings/730/P2000%20%7C%20Coach%20Class%20%28Minimal%20Wear%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.28:30013/'}
+INFO:root:2023-09-19 21:18:19.951370 item:AK-47 Азимов Прямо с завода id: 6248237772879444146: 0.06980881094932556 price: 266.14 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 21:18:21.102880 item:AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 271.13 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 21:18:21.791525 item:AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 271.8 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 21:18:22.453992 item:AK-47 Азимов Прямо с завода id: 6275259370630071354: 0.05981910973787308 price: 271.11 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 21:19:28.570134 item:AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 280.96 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 21:19:30.131812 item:AK-47 Азимов Прямо с завода id: 4322947123419118019: 0.056732069700956345 price: 301.15 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 21:19:30.953737 item:AK-47 Азимов Прямо с завода id: 5857550239180656315: 0.0699215829372406 price: 311.65 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 21:19:32.005582 item:AK-47 Азимов Прямо с завода id: 4301553757614412949: 0.056708283722400665 price: 308.89 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 21:19:32.896691 item:AK-47 Азимов Прямо с завода id: 4285786084703015886: 0.06998734176158905 price: 319.96 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 21:19:34.122907 item:AK-47 Азимов Прямо с завода id: 4312807682417632244: 0.0698782354593277 price: 330.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 21:19:35.081311 item:AK-47 Азимов Прямо с завода id: 6512818269874828632: 0.06989195942878723 price: 332.86 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 21:19:35.723397 item:AK-47 Азимов Прямо с завода id: 4298170983657320186: 0.05656341090798378 price: 343.71 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 21:19:36.766049 item:AK-47 Азимов Прямо с завода id: 4295918549668818775: 0.06764120608568192 price: 367.93 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 21:19:37.449690 item:AK-47 Азимов Прямо с завода id: 4342086788537604780: 0.050388358533382416 price: 399.92 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 21:20:38.700323 item:AK-47 Азимов Прямо с завода id: 4306052282999954069: 0.053748391568660736 price: 413.24 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 21:21:44.632377 item:AK-47 Азимов Прямо с завода id: 4309430617654721227: 0.06981024146080017 price: 458.18 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 21:21:45.409324 item:AK-47 Азимов Прямо с завода id: 6394589087020554899: 0.06998903304338455 price: 489.35 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 21:21:46.489671 item:AK-47 Азимов Прямо с завода id: 4336449678686589286: 0.05017120763659477 price: 509.64 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 21:22:47.966685 item:AK-47 Азимов Прямо с завода id: 4310562953165039342: 0.050033729523420334 price: 1.351 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-19 21:23:05.256140 item:AK-47 Азимов Прямо с завода id: 6248237772879444146: 0.06980881094932556 price: 266.14 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-19 21:24:07.015852 item:AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 271.13 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-19 21:24:08.560856 item:AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 271.8 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-19 21:24:09.589449 item:AK-47 Азимов Прямо с завода id: 6275259370630071354: 0.05981910973787308 price: 271.11 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-19 21:24:10.463093 item:AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 280.96 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-19 21:24:11.727573 item:AK-47 Азимов Прямо с завода id: 4322947123419118019: 0.056732069700956345 price: 301.15 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-19 21:24:12.746607 item:AK-47 Азимов Прямо с завода id: 5857550239180656315: 0.0699215829372406 price: 311.65 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-19 21:24:13.679255 item:AK-47 Азимов Прямо с завода id: 4301553757614412949: 0.056708283722400665 price: 308.89 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+WARNING:root:2023-09-19 21:25:14.729702 id: 4285786084703015886: Error Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-19 21:25:14.731690 item:AK-47 Азимов Прямо с завода id: 4312807682417632244: 0.0698782354593277 price: 330.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-19 21:25:15.578970 item:AK-47 Азимов Прямо с завода id: 6512818269874828632: 0.06989195942878723 price: 332.86 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-19 21:26:17.066301 item:AK-47 Азимов Прямо с завода id: 4298170983657320186: 0.05656341090798378 price: 343.71 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-19 21:26:17.854058 item:AK-47 Азимов Прямо с завода id: 4295918549668818775: 0.06764120608568192 price: 367.93 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-19 21:26:18.498983 item:AK-47 Азимов Прямо с завода id: 4342086788537604780: 0.050388358533382416 price: 399.92 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+WARNING:root:2023-09-19 21:28:20.108466 id: 4306052282999954069: Error Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+WARNING:root:2023-09-19 21:28:20.111460 id: 4309430617654721227: Error Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-19 21:28:20.111460 item:AK-47 Азимов Прямо с завода id: 6394589087020554899: 0.06998903304338455 price: 489.35 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-19 21:28:23.137585 item:AK-47 Азимов Прямо с завода id: 4336449678686589286: 0.05017120763659477 price: 509.64 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-19 21:28:23.767498 item:AK-47 Азимов Прямо с завода id: 4310562953165039342: 0.050033729523420334 price: 1.351 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-19 21:28:36.002317 item:AK-47 Азимов Прямо с завода id: 6248237772879444146: 0.06980881094932556 price: 266.14 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-19 21:28:36.719430 item:AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 271.13 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-19 21:29:38.162564 item:AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 271.8 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-19 21:29:39.070094 item:AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 280.96 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-19 21:29:39.977960 item:AK-47 Азимов Прямо с завода id: 4322947123419118019: 0.056732069700956345 price: 301.15 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-19 21:29:40.743337 item:AK-47 Азимов Прямо с завода id: 5857550239180656315: 0.0699215829372406 price: 311.65 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-19 21:30:43.329666 item:AK-47 Азимов Прямо с завода id: 4301553757614412949: 0.056708283722400665 price: 308.89 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-19 21:30:44.660804 item:AK-47 Азимов Прямо с завода id: 4285786084703015886: 0.06998734176158905 price: 319.96 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-19 21:30:45.901980 item:AK-47 Азимов Прямо с завода id: 4312807682417632244: 0.0698782354593277 price: 330.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+WARNING:root:2023-09-19 21:31:46.972183 id: 6512818269874828632: Error Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-19 21:31:46.973181 item:AK-47 Азимов Прямо с завода id: 4298170983657320186: 0.05656341090798378 price: 343.71 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+WARNING:root:2023-09-19 21:32:48.976399 id: 4295918549668818775: Error Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-19 21:32:48.979424 item:AK-47 Азимов Прямо с завода id: 4342086788537604780: 0.050388358533382416 price: 399.92 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-19 21:32:50.743240 item:AK-47 Азимов Прямо с завода id: 4306052282999954069: 0.053748391568660736 price: 413.24 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-19 21:32:52.406168 item:AK-47 Азимов Прямо с завода id: 4309430617654721227: 0.06981024146080017 price: 458.18 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-19 21:32:53.458983 item:AK-47 Азимов Прямо с завода id: 6394589087020554899: 0.06998903304338455 price: 489.35 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-19 21:32:54.299669 item:AK-47 Азимов Прямо с завода id: 4336449678686589286: 0.05017120763659477 price: 509.64 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-19 21:32:55.551798 item:AK-47 Азимов Прямо с завода id: 4310562953165039342: 0.050033729523420334 price: 1.351 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-19 21:33:09.095956 item:AK-47 Азимов Прямо с завода id: 6248237772879444146: 0.06980881094932556 price: 266.14 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-19 21:33:09.754128 item:AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 271.13 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-19 21:33:10.782746 item:AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 271.8 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 02:57:19.672563: resp.url: https://steamcommunity.com/market/search?q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0&q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0 link: https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Asiimov%20%28Factory%20New%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-20 02:57:21.729042 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 6275259370632017784: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 02:57:22.383983 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 02:58:23.456488 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 02:59:24.449878 item:['AK-47 Азимов Прямо с завода', 'P2000 | Эконом-класс (Немного поношенное)'] id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.28:30013/'}
+INFO:root:2023-09-20 02:59:41.052730: resp.url: https://steamcommunity.com/market/search?q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0&q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0 link: https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Asiimov%20%28Factory%20New%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-20 02:59:43.394198 item:AK-47 Азимов Прямо с завода id: 6935036715838294991: 0.06945759803056717 price: 266.62 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 02:59:44.008752 item:AK-47 Азимов Прямо с завода id: 6275259370632017784: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 02:59:44.621350 item:AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 02:59:45.138481 item:AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 03:00:45.901480 item:AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.193.176.220.148:30013/'}
+INFO:root:2023-09-20 03:00:46.418617 item:AK-47 Азимов Прямо с завода id: 4322947123419118019: 0.056732069700956345 price: 301.3 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.193.176.220.148:30013/'}
+INFO:root:2023-09-20 03:01:47.196626 item:AK-47 Азимов Прямо с завода id: 5857550239180656315: 0.0699215829372406 price: 311.42 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.28:30013/'}
+INFO:root:2023-09-20 03:01:48.123234 item:AK-47 Азимов Прямо с завода id: 4301553757614412949: 0.056708283722400665 price: 310.19 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.28:30013/'}
+INFO:root:2023-09-20 03:01:48.732783 item:AK-47 Азимов Прямо с завода id: 4285786084703015886: 0.06998734176158905 price: 320.58 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.28:30013/'}
+INFO:root:2023-09-20 03:01:49.245993 item:AK-47 Азимов Прямо с завода id: 4312807682417632244: 0.0698782354593277 price: 330.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.28:30013/'}
+INFO:root:2023-09-20 03:02:50.367527 item:AK-47 Азимов Прямо с завода id: 6512818269874828632: 0.06989195942878723 price: 335.53 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.28:30013/'}
+INFO:root:2023-09-20 03:03:51.105205 item:AK-47 Азимов Прямо с завода id: 4298170983657320186: 0.05656341090798378 price: 342.98 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.11:30013/'}
+INFO:root:2023-09-20 03:03:51.718091 item:AK-47 Азимов Прямо с завода id: 4295918549668818775: 0.06764120608568192 price: 368.65 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.11:30013/'}
+INFO:root:2023-09-20 03:03:52.209576 item:AK-47 Азимов Прямо с завода id: 4342086788537604780: 0.050388358533382416 price: 400.72 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.11:30013/'}
+INFO:root:2023-09-20 03:08:08.390103: resp.url: https://steamcommunity.com/market/search?q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0&q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0 link: https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Asiimov%20%28Factory%20New%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 03:08:11.171290 item: AK-47 Азимов Прямо с завода id: 6935036715838294991: 0.06945759803056717 price: 266.62 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.28:30013/'}
+INFO:root:2023-09-20 03:09:13.673226 item: AK-47 Азимов Прямо с завода id: 6275259370632017784: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-20 03:09:14.177794 item: AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-20 03:10:17.052791 item: AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-20 03:10:17.582133 item: AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-20 03:11:20.237220 item: AK-47 Азимов Прямо с завода id: 4322947123419118019: 0.056732069700956345 price: 301.3 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 03:11:20.732668 item: AK-47 Азимов Прямо с завода id: 5857550239180656315: 0.0699215829372406 price: 311.42 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 03:11:21.280195 item: AK-47 Азимов Прямо с завода id: 4301553757614412949: 0.056708283722400665 price: 310.19 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 03:12:24.136138 item: AK-47 Азимов Прямо с завода id: 4285786084703015886: 0.06998734176158905 price: 320.58 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-20 03:12:24.750836 item: AK-47 Азимов Прямо с завода id: 4312807682417632244: 0.0698782354593277 price: 330.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-20 03:12:25.437597 item: AK-47 Азимов Прямо с завода id: 6512818269874828632: 0.06989195942878723 price: 335.53 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-20 03:13:27.736815 item: AK-47 Азимов Прямо с завода id: 4298170983657320186: 0.05656341090798378 price: 342.98 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-20 03:13:28.237579 item: AK-47 Азимов Прямо с завода id: 4295918549668818775: 0.06764120608568192 price: 368.65 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-20 03:14:30.952215 item: AK-47 Азимов Прямо с завода id: 4342086788537604780: 0.050388358533382416 price: 400.72 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.28:30013/'}
+INFO:root:2023-09-20 03:14:31.612197 item: AK-47 Азимов Прямо с завода id: 4306052282999954069: 0.053748391568660736 price: 416.94 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.28:30013/'}
+INFO:root:2023-09-20 03:22:03.626532: resp.url: https://steamcommunity.com/market/search?q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0&q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0 link: https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Asiimov%20%28Factory%20New%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-20 03:22:05.778314 item: AK-47 Азимов Прямо с завода id: 6935036715838294991: 0.06945759803056717 price: 266.62 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-20 03:22:06.496188 item: AK-47 Азимов Прямо с завода id: 4392754821018647244: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-20 03:23:09.060793 item: AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-20 03:24:13.165767 item: AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.11:30013/'}
+INFO:root:2023-09-20 03:24:13.858629 item: AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.11:30013/'}
+INFO:root:2023-09-20 03:24:14.496630 item: AK-47 Азимов Прямо с завода id: 4322947123419118019: 0.056732069700956345 price: 301.3 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.11:30013/'}
+INFO:root:2023-09-20 03:25:17.577608 item: AK-47 Азимов Прямо с завода id: 5857550239180656315: 0.0699215829372406 price: 311.42 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-20 03:26:20.321174 item: AK-47 Азимов Прямо с завода id: 4301553757614412949: 0.056708283722400665 price: 310.19 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.28:30013/'}
+INFO:root:2023-09-20 03:30:50.906675: resp.url: https://steamcommunity.com/market/search?q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0&q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0 link: https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Asiimov%20%28Factory%20New%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-20 03:30:52.568805 item: AK-47 Азимов Прямо с завода id: 6935036715838294991: 0.06945759803056717 price: 266.62 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-20 03:31:54.894623 item: AK-47 Азимов Прямо с завода id: 4392754821018647244: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-20 03:31:55.713994 item: AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-20 03:31:56.239467 item: AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-20 03:32:58.895157 item: AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-20 03:32:59.655235 item: AK-47 Азимов Прямо с завода id: 4322947123419118019: 0.056732069700956345 price: 301.3 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-20 03:33:00.186947 item: AK-47 Азимов Прямо с завода id: 5857550239180656315: 0.0699215829372406 price: 311.42 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-20 03:34:03.000215 item: AK-47 Азимов Прямо с завода id: 4301553757614412949: 0.056708283722400665 price: 310.19 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 03:34:03.691110 item: AK-47 Азимов Прямо с завода id: 4285786084703015886: 0.06998734176158905 price: 320.58 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 03:34:04.228728 item: AK-47 Азимов Прямо с завода id: 4312807682417632244: 0.0698782354593277 price: 330.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 03:35:12.919816 item: AK-47 Азимов Прямо с завода id: 6512818269874828632: 0.06989195942878723 price: 335.53 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-20 03:35:13.543565 item: AK-47 Азимов Прямо с завода id: 4298170983657320186: 0.05656341090798378 price: 342.98 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-20 03:36:18.601781 item: AK-47 Азимов Прямо с завода id: 4295918549668818775: 0.06764120608568192 price: 368.65 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-20 03:37:32.822188 item: AK-47 Азимов Прямо с завода id: 4342086788537604780: 0.050388358533382416 price: 400.72 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.11:30013/'}
+INFO:root:2023-09-20 03:37:33.404167 item: AK-47 Азимов Прямо с завода id: 4306052282999954069: 0.053748391568660736 price: 416.94 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.11:30013/'}
+INFO:root:2023-09-20 03:37:45.353381 item: AK-47 Азимов Прямо с завода id: 6935036715838294991: 0.06945759803056717 price: 266.62 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.28:30013/'}
+INFO:root:2023-09-20 03:38:48.008934 item: AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-20 03:38:48.597540 item: AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-20 03:39:51.884241 item: AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-20 03:39:52.407465 item: AK-47 Азимов Прямо с завода id: 4322947123419118019: 0.056732069700956345 price: 301.3 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-20 03:40:55.216858 item: AK-47 Азимов Прямо с завода id: 5857550239180656315: 0.0699215829372406 price: 311.42 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-20 03:41:57.966477 item: AK-47 Азимов Прямо с завода id: 4301553757614412949: 0.056708283722400665 price: 310.19 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 03:41:58.553031 item: AK-47 Азимов Прямо с завода id: 4285786084703015886: 0.06998734176158905 price: 320.58 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 03:43:03.414898 item: AK-47 Азимов Прямо с завода id: 4312807682417632244: 0.0698782354593277 price: 330.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 03:44:26.833256 item: AK-47 Азимов Прямо с завода id: 6512818269874828632: 0.06989195942878723 price: 335.53 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 03:44:27.381841 item: AK-47 Азимов Прямо с завода id: 4298170983657320186: 0.05656341090798378 price: 342.98 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 03:45:30.374684 item: AK-47 Азимов Прямо с завода id: 4295918549668818775: 0.06764120608568192 price: 368.65 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.11:30013/'}
+INFO:root:2023-09-20 03:46:33.913933 item: AK-47 Азимов Прямо с завода id: 4342086788537604780: 0.050388358533382416 price: 400.72 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.11:30013/'}
+INFO:root:2023-09-20 03:46:34.433403 item: AK-47 Азимов Прямо с завода id: 4306052282999954069: 0.053748391568660736 price: 416.94 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.11:30013/'}
+INFO:root:2023-09-20 03:46:46.572339 item: AK-47 Азимов Прямо с завода id: 6935036715838294991: 0.06945759803056717 price: 266.62 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-20 03:47:51.738358 item: AK-47 Азимов Прямо с завода id: 4392754821018766254: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-20 03:47:52.361635 item: AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.181:30013/'}
+INFO:root:2023-09-20 03:48:57.533382 item: AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.28:30013/'}
+INFO:root:2023-09-20 03:48:58.192997 item: AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.28:30013/'}
+INFO:root:2023-09-20 03:50:01.713324 item: AK-47 Азимов Прямо с завода id: 4322947123419118019: 0.056732069700956345 price: 301.3 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.28:30013/'}
+INFO:root:2023-09-20 03:50:02.300157 item: AK-47 Азимов Прямо с завода id: 5857550239180656315: 0.0699215829372406 price: 311.42 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.28:30013/'}
+INFO:root:2023-09-20 03:51:04.867583 item: AK-47 Азимов Прямо с завода id: 4301553757614412949: 0.056708283722400665 price: 310.19 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.28:30013/'}
+INFO:root:2023-09-20 03:51:05.465088 item: AK-47 Азимов Прямо с завода id: 4285786084703015886: 0.06998734176158905 price: 320.58 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.28:30013/'}
+INFO:root:2023-09-20 03:52:08.150916 item: AK-47 Азимов Прямо с завода id: 4312807682417632244: 0.0698782354593277 price: 330.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.11:30013/'}
+INFO:root:2023-09-20 03:52:08.780962 item: AK-47 Азимов Прямо с завода id: 6512818269874828632: 0.06989195942878723 price: 335.53 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.11:30013/'}
+INFO:root:2023-09-20 03:52:09.379935 item: AK-47 Азимов Прямо с завода id: 4298170983657320186: 0.05656341090798378 price: 342.98 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.11:30013/'}
+INFO:root:2023-09-20 03:53:12.076940 item: AK-47 Азимов Прямо с завода id: 4295918549668818775: 0.06764120608568192 price: 368.65 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-20 03:54:14.822485 item: AK-47 Азимов Прямо с завода id: 4342086788537604780: 0.050388358533382416 price: 400.72 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-20 03:54:15.632160 item: AK-47 Азимов Прямо с завода id: 4306052282999954069: 0.053748391568660736 price: 416.94 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.112:30013/'}
+INFO:root:2023-09-20 03:54:58.646257 item: AK-47 Азимов Прямо с завода id: 6935036715838294991: 0.06945759803056717 price: 266.62 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 03:54:59.148099 item: AK-47 Азимов Прямо с завода id: 4392754821018766254: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 03:56:04.244115 item: AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-20 03:57:07.604058 item: AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-20 03:58:10.350225 item: AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.11:30013/'}
+INFO:root:2023-09-20 03:59:13.016336 item: AK-47 Азимов Прямо с завода id: 4322947123419118019: 0.056732069700956345 price: 301.3 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 03:59:13.506922 item: AK-47 Азимов Прямо с завода id: 5857550239180656315: 0.0699215829372406 price: 311.42 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 04:00:16.198014 item: AK-47 Азимов Прямо с завода id: 4301553757614412949: 0.056708283722400665 price: 310.19 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-20 04:00:16.812049 item: AK-47 Азимов Прямо с завода id: 4285786084703015886: 0.06998734176158905 price: 320.58 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-20 04:00:17.394455 item: AK-47 Азимов Прямо с завода id: 4312807682417632244: 0.0698782354593277 price: 330.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.236:30013/'}
+INFO:root:2023-09-20 04:01:20.057259 item: AK-47 Азимов Прямо с завода id: 6512818269874828632: 0.06989195942878723 price: 335.53 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-20 04:01:20.603751 item: AK-47 Азимов Прямо с завода id: 4298170983657320186: 0.05656341090798378 price: 342.98 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-20 04:01:21.273412 item: AK-47 Азимов Прямо с завода id: 4295918549668818775: 0.06764120608568192 price: 368.65 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-20 04:02:23.927927 item: AK-47 Азимов Прямо с завода id: 4342086788537604780: 0.050388358533382416 price: 400.72 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-20 04:02:24.609372 item: AK-47 Азимов Прямо с завода id: 4306052282999954069: 0.053748391568660736 price: 416.94 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.22:30013/'}
+INFO:root:2023-09-20 04:02:38.006592 item: AK-47 Азимов Прямо с завода id: 6935036715838294991: 0.06945759803056717 price: 266.62 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.11:30013/'}
+INFO:root:2023-09-20 04:02:38.523326 item: AK-47 Азимов Прямо с завода id: 4392754821018766254: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.11:30013/'}
+INFO:root:2023-09-20 04:03:41.263253 item: AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 04:04:46.845628 item: AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-20 04:04:47.382670 item: AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-20 04:05:49.624256 item: AK-47 Азимов Прямо с завода id: 4322947123419118019: 0.056732069700956345 price: 301.3 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-20 04:05:50.382940 item: AK-47 Азимов Прямо с завода id: 5857550239180656315: 0.0699215829372406 price: 311.42 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-20 04:06:52.533542 item: AK-47 Азимов Прямо с завода id: 4301553757614412949: 0.056708283722400665 price: 310.19 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-20 04:07:55.976009 item: AK-47 Азимов Прямо с завода id: 4285786084703015886: 0.06998734176158905 price: 320.58 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-20 04:07:56.492463 item: AK-47 Азимов Прямо с завода id: 4312807682417632244: 0.0698782354593277 price: 330.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.168:30013/'}
+INFO:root:2023-09-20 04:08:59.146189 item: AK-47 Азимов Прямо с завода id: 6512818269874828632: 0.06989195942878723 price: 335.53 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.11:30013/'}
+INFO:root:2023-09-20 04:08:59.635941 item: AK-47 Азимов Прямо с завода id: 4298170983657320186: 0.05656341090798378 price: 342.98 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.11:30013/'}
+INFO:root:2023-09-20 04:10:02.403350 item: AK-47 Азимов Прямо с завода id: 4295918549668818775: 0.06764120608568192 price: 368.65 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.28:30013/'}
+INFO:root:2023-09-20 04:12:06.150793 item: AK-47 Азимов Прямо с завода id: 4342086788537604780: 0.050388358533382416 price: 400.72 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.28:30013/'}
+INFO:root:2023-09-20 04:12:08.402740 item: AK-47 Азимов Прямо с завода id: 4306052282999954069: 0.053748391568660736 price: 416.94 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.28:30013/'}
+INFO:root:2023-09-20 04:21:18.475897: resp.url: https://steamcommunity.com/market/search?q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0&q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0 link: https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Asiimov%20%28Factory%20New%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 04:21:20.816486 item: AK-47 Азимов Прямо с завода id: 6935036715838294991: 0.06945759803056717 price: 266.62 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-20 04:21:21.406523 item: AK-47 Азимов Прямо с завода id: 4392754821018766254: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-20 04:22:23.938252 item: AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 04:22:24.582060 item: AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 04:23:27.177930 item: AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 04:24:29.677911 item: AK-47 Азимов Прямо с завода id: 4322947123419118019: 0.056732069700956345 price: 301.3 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 04:26:10.959556 item: AK-47 Азимов Прямо с завода id: 5857550239180656315: 0.0699215829372406 price: 311.42 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 04:26:11.571384 item: AK-47 Азимов Прямо с завода id: 4301553757614412949: 0.056708283722400665 price: 310.19 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 04:26:14.651038 item: AK-47 Азимов Прямо с завода id: 4285786084703015886: 0.06998734176158905 price: 320.58 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 04:26:15.404974 item: AK-47 Азимов Прямо с завода id: 4312807682417632244: 0.0698782354593277 price: 330.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 04:27:18.032229 item: AK-47 Азимов Прямо с завода id: 6512818269874828632: 0.06989195942878723 price: 335.53 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 04:27:18.752209 item: AK-47 Азимов Прямо с завода id: 4298170983657320186: 0.05656341090798378 price: 342.98 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 04:28:21.186123 item: AK-47 Азимов Прямо с завода id: 4295918549668818775: 0.06764120608568192 price: 368.65 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 04:29:24.843417 item: AK-47 Азимов Прямо с завода id: 4342086788537604780: 0.050388358533382416 price: 400.72 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 04:29:25.630337 item: AK-47 Азимов Прямо с завода id: 4306052282999954069: 0.053748391568660736 price: 416.94 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 04:29:37.899830 item: AK-47 Азимов Прямо с завода id: 4392754821018766254: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 04:29:38.395640 item: AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 04:30:40.844246 item: AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-20 04:30:41.510778 item: AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-20 04:31:44.155305 item: AK-47 Азимов Прямо с завода id: 4322947123419118019: 0.056732069700956345 price: 301.3 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 04:31:44.596765 item: AK-47 Азимов Прямо с завода id: 5857550239180656315: 0.0699215829372406 price: 311.42 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 04:32:47.257391 item: AK-47 Азимов Прямо с завода id: 4301553757614412949: 0.056708283722400665 price: 310.19 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 04:32:47.746314 item: AK-47 Азимов Прямо с завода id: 4285786084703015886: 0.06998734176158905 price: 320.58 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 04:32:48.452154 item: AK-47 Азимов Прямо с завода id: 4312807682417632244: 0.0698782354593277 price: 330.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 04:33:51.771527 item: AK-47 Азимов Прямо с завода id: 6512818269874828632: 0.06989195942878723 price: 335.53 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 04:33:52.251781 item: AK-47 Азимов Прямо с завода id: 4298170983657320186: 0.05656341090798378 price: 342.98 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 04:34:54.852020 item: AK-47 Азимов Прямо с завода id: 4295918549668818775: 0.06764120608568192 price: 368.65 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 04:34:55.393853 item: AK-47 Азимов Прямо с завода id: 4342086788537604780: 0.050388358533382416 price: 400.72 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 04:35:58.234552 item: AK-47 Азимов Прямо с завода id: 4306052282999954069: 0.053748391568660736 price: 416.94 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 04:36:10.936434 item: AK-47 Азимов Прямо с завода id: 4392754821018766254: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 04:36:11.614625 item: AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 04:37:14.355258 item: AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 04:37:14.868160 item: AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 04:37:15.346569 item: AK-47 Азимов Прямо с завода id: 4322947123419118019: 0.056732069700956345 price: 301.3 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 04:38:18.016492 item: AK-47 Азимов Прямо с завода id: 5857550239180656315: 0.0699215829372406 price: 311.42 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 04:38:18.631022 item: AK-47 Азимов Прямо с завода id: 4301553757614412949: 0.056708283722400665 price: 310.19 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 04:39:21.474203 item: AK-47 Азимов Прямо с завода id: 4285786084703015886: 0.06998734176158905 price: 320.58 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 04:40:24.177125 item: AK-47 Азимов Прямо с завода id: 4312807682417632244: 0.0698782354593277 price: 330.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 04:41:26.882519 item: AK-47 Азимов Прямо с завода id: 6512818269874828632: 0.06989195942878723 price: 335.53 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-20 04:41:27.325181 item: AK-47 Азимов Прямо с завода id: 4298170983657320186: 0.05656341090798378 price: 342.98 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-20 04:42:29.880950 item: AK-47 Азимов Прямо с завода id: 4295918549668818775: 0.06764120608568192 price: 368.65 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 04:42:30.532113 item: AK-47 Азимов Прямо с завода id: 4342086788537604780: 0.050388358533382416 price: 400.72 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 04:43:32.800844 item: AK-47 Азимов Прямо с завода id: 4306052282999954069: 0.053748391568660736 price: 416.94 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 04:43:44.729628 item: AK-47 Азимов Прямо с завода id: 4392754821018766254: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 04:43:45.226227 item: AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 04:44:47.894637 item: AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 04:44:48.576466 item: AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 04:45:51.186004 item: AK-47 Азимов Прямо с завода id: 4322947123419118019: 0.056732069700956345 price: 301.3 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-20 04:45:51.634150 item: AK-47 Азимов Прямо с завода id: 5857550239180656315: 0.0699215829372406 price: 311.42 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-20 04:46:54.239615 item: AK-47 Азимов Прямо с завода id: 4301553757614412949: 0.056708283722400665 price: 310.19 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 04:47:58.944734 item: AK-47 Азимов Прямо с завода id: 4285786084703015886: 0.06998734176158905 price: 320.58 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 04:47:59.391938 item: AK-47 Азимов Прямо с завода id: 4312807682417632244: 0.0698782354593277 price: 330.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 04:49:03.198174 item: AK-47 Азимов Прямо с завода id: 6512818269874828632: 0.06989195942878723 price: 335.53 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 04:49:03.836546 item: AK-47 Азимов Прямо с завода id: 4298170983657320186: 0.05656341090798378 price: 342.98 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 04:49:04.789849 item: AK-47 Азимов Прямо с завода id: 4295918549668818775: 0.06764120608568192 price: 368.65 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 04:49:05.294193 item: AK-47 Азимов Прямо с завода id: 4342086788537604780: 0.050388358533382416 price: 400.72 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 04:50:09.199175 item: AK-47 Азимов Прямо с завода id: 4306052282999954069: 0.053748391568660736 price: 416.94 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 04:50:44.550371 item: AK-47 Азимов Прямо с завода id: 4392754821018766254: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-20 04:51:47.188176 item: AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-20 04:51:47.710927 item: AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-20 04:52:50.483127 item: AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 04:53:53.156689 item: AK-47 Азимов Прямо с завода id: 4322947123419118019: 0.056732069700956345 price: 301.3 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 04:53:53.554994 item: AK-47 Азимов Прямо с завода id: 5857550239180656315: 0.0699215829372406 price: 311.42 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 04:54:56.411341 item: AK-47 Азимов Прямо с завода id: 4301553757614412949: 0.056708283722400665 price: 310.19 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 04:55:59.299755 item: AK-47 Азимов Прямо с завода id: 4285786084703015886: 0.06998734176158905 price: 320.58 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-20 04:57:01.878886 item: AK-47 Азимов Прямо с завода id: 4312807682417632244: 0.0698782354593277 price: 330.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 04:57:02.388368 item: AK-47 Азимов Прямо с завода id: 6512818269874828632: 0.06989195942878723 price: 335.53 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 04:58:04.951276 item: AK-47 Азимов Прямо с завода id: 4298170983657320186: 0.05656341090798378 price: 342.98 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-20 04:58:05.471271 item: AK-47 Азимов Прямо с завода id: 4295918549668818775: 0.06764120608568192 price: 368.65 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-20 04:59:08.620980 item: AK-47 Азимов Прямо с завода id: 4342086788537604780: 0.050388358533382416 price: 400.72 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-20 05:00:11.523289 item: AK-47 Азимов Прямо с завода id: 4306052282999954069: 0.053748391568660736 price: 416.94 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 05:00:23.671604 item: AK-47 Азимов Прямо с завода id: 4392754821018766254: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 05:01:26.278792 item: AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 05:02:28.473947 item: AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 05:03:30.685779 item: AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 05:04:33.390103 item: AK-47 Азимов Прямо с завода id: 4322947123419118019: 0.056732069700956345 price: 301.3 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 05:05:36.091983 item: AK-47 Азимов Прямо с завода id: 5857550239180656315: 0.0699215829372406 price: 311.42 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 05:05:36.849891 item: AK-47 Азимов Прямо с завода id: 4301553757614412949: 0.056708283722400665 price: 310.19 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 05:05:37.472158 item: AK-47 Азимов Прямо с завода id: 4285786084703015886: 0.06998734176158905 price: 320.58 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 05:06:40.139410 item: AK-47 Азимов Прямо с завода id: 4312807682417632244: 0.0698782354593277 price: 330.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-20 05:06:40.857025 item: AK-47 Азимов Прямо с завода id: 6512818269874828632: 0.06989195942878723 price: 335.53 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-20 05:06:41.340897 item: AK-47 Азимов Прямо с завода id: 4298170983657320186: 0.05656341090798378 price: 342.98 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-20 05:07:44.041033 item: AK-47 Азимов Прямо с завода id: 4295918549668818775: 0.06764120608568192 price: 368.65 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-20 05:07:44.551689 item: AK-47 Азимов Прямо с завода id: 4342086788537604780: 0.050388358533382416 price: 400.72 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-20 05:08:47.222142 item: AK-47 Азимов Прямо с завода id: 4306052282999954069: 0.053748391568660736 price: 416.94 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 05:09:00.298064 item: AK-47 Азимов Прямо с завода id: 6935036715838294991: 0.06945759803056717 price: 266.62 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 05:11:04.464258 item: AK-47 Азимов Прямо с завода id: 4392754821018766254: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 05:11:09.658989 item: AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 05:12:12.286887 item: AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 05:13:14.588576 item: AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 05:14:17.571639 item: AK-47 Азимов Прямо с завода id: 4322947123419118019: 0.056732069700956345 price: 301.3 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 05:15:21.275050 item: AK-47 Азимов Прямо с завода id: 5857550239180656315: 0.0699215829372406 price: 311.42 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 05:15:21.763393 item: AK-47 Азимов Прямо с завода id: 4301553757614412949: 0.056708283722400665 price: 310.19 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 05:15:22.286098 item: AK-47 Азимов Прямо с завода id: 4285786084703015886: 0.06998734176158905 price: 320.58 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 05:16:24.650058 item: AK-47 Азимов Прямо с завода id: 4312807682417632244: 0.0698782354593277 price: 330.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 05:17:27.322254 item: AK-47 Азимов Прямо с завода id: 6512818269874828632: 0.06989195942878723 price: 335.53 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 05:18:30.483756 item: AK-47 Азимов Прямо с завода id: 4298170983657320186: 0.05656341090798378 price: 342.98 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 05:19:33.377430 item: AK-47 Азимов Прямо с завода id: 4295918549668818775: 0.06764120608568192 price: 368.65 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 05:19:33.927069 item: AK-47 Азимов Прямо с завода id: 4342086788537604780: 0.050388358533382416 price: 400.72 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 05:19:34.607521 item: AK-47 Азимов Прямо с завода id: 4306052282999954069: 0.053748391568660736 price: 416.94 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 05:35:32.146065: resp.url: https://steamcommunity.com/market/search?q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0&q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0 link: https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Asiimov%20%28Factory%20New%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-20 05:35:33.204691: resp.url: https://steamcommunity.com/market/search?q=P2000+%7C+%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%81+(%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D0%BE%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5)&q=P2000+%7C+%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%81+%28%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D0%BE%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%29 link: https://steamcommunity.com/market/listings/730/P2000%20%7C%20Coach%20Class%20%28Minimal%20Wear%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-20 05:35:35.297165 item: P2000 | Эконом-класс (Немного поношенное) id: 4333080951295024582: 0.12041192501783371 price: 11.4 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-20 05:35:35.963050 item: P2000 | Эконом-класс (Немного поношенное) id: 4333080951295023382: 0.0949021652340889 price: 11.4 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-20 05:35:36.576681 item: P2000 | Эконом-класс (Немного поношенное) id: 4325198923234922516: 0.09600537270307541 price: 11.59 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-20 05:36:38.823562 item: P2000 | Эконом-класс (Немного поношенное) id: 4336457288976419621: 0.12128225713968277 price: 11.74 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-20 05:36:39.350658 item: P2000 | Эконом-класс (Немного поношенное) id: 4372488628494375704: 0.13202311098575592 price: 13.34 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-20 05:37:42.326532 item: P2000 | Эконом-класс (Немного поношенное) id: 4298171618658371991: 0.0993119329214096 price: 13.36 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 05:37:43.043910 item: P2000 | Эконом-класс (Немного поношенное) id: 4299296883566712948: 0.13220906257629395 price: 13.8 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 05:37:43.638485 item: P2000 | Эконом-класс (Немного поношенное) id: 7141072781378762624: 0.09708328545093536 price: 14.46 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 05:38:22.860033: resp.url: https://steamcommunity.com/market/search?q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0&q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0 link: https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Asiimov%20%28Factory%20New%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 05:38:23.823328: resp.url: https://steamcommunity.com/market/search?q=P2000+%7C+%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%81+(%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D0%BE%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5)&q=P2000+%7C+%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%81+%28%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D0%BE%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%29 link: https://steamcommunity.com/market/listings/730/P2000%20%7C%20Coach%20Class%20%28Minimal%20Wear%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 05:38:25.774719 item: P2000 | Эконом-класс (Немного поношенное) id: 4333080951295024582: 0.12041192501783371 price: 11.4 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 05:38:26.438534 item: P2000 | Эконом-класс (Немного поношенное) id: 4333080951295023382: 0.0949021652340889 price: 11.4 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 05:38:52.074619: resp.url: https://steamcommunity.com/market/search?q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0&q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0 link: https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Asiimov%20%28Factory%20New%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-20 05:38:52.978374: resp.url: https://steamcommunity.com/market/search?q=P2000+%7C+%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%81+(%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D0%BE%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5)&q=P2000+%7C+%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%81+%28%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D0%BE%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%29 link: https://steamcommunity.com/market/listings/730/P2000%20%7C%20Coach%20Class%20%28Minimal%20Wear%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-20 05:41:48.243282: resp.url: https://steamcommunity.com/market/search?q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0&q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0 link: https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Asiimov%20%28Factory%20New%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 05:41:49.218658: resp.url: https://steamcommunity.com/market/search?q=P2000+%7C+%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%81+(%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D0%BE%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5)&q=P2000+%7C+%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%81+%28%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D0%BE%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%29 link: https://steamcommunity.com/market/listings/730/P2000%20%7C%20Coach%20Class%20%28Minimal%20Wear%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 05:41:50.691144 item: P2000 | Эконом-класс (Немного поношенное) id: 4333080951295024582: 0.12041192501783371 price: 11.4 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 05:41:51.367575 item: P2000 | Эконом-класс (Немного поношенное) id: 4333080951295023382: 0.0949021652340889 price: 11.4 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 05:42:56.684861: resp.url: https://steamcommunity.com/market/search?q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0&q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0 link: https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Asiimov%20%28Factory%20New%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 05:42:57.725990: resp.url: https://steamcommunity.com/market/search?q=P2000+%7C+%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%81+(%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D0%BE%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5)&q=P2000+%7C+%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%81+%28%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D0%BE%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%29 link: https://steamcommunity.com/market/listings/730/P2000%20%7C%20Coach%20Class%20%28Minimal%20Wear%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 05:42:59.259815 item: 1 id: 4333080951295024582: 0.12041192501783371 price: 11.4 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 05:44:01.796258 item: 1 id: 4333080951295023382: 0.0949021652340889 price: 11.4 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 05:44:02.268648 item: 1 id: 4325198923234922516: 0.09600537270307541 price: 11.59 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-20 05:44:27.769507: resp.url: https://steamcommunity.com/market/search?q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0&q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0 link: https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Asiimov%20%28Factory%20New%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 05:44:28.934548: resp.url: https://steamcommunity.com/market/search?q=P2000+%7C+%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%81+(%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D0%BE%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5)&q=P2000+%7C+%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%81+%28%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D0%BE%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%29 link: https://steamcommunity.com/market/listings/730/P2000%20%7C%20Coach%20Class%20%28Minimal%20Wear%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 05:44:30.504092 item: 0 id: 6935036715838294991: 0.06945759803056717 price: 266.62 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-20 05:45:32.765339 item: 0 id: 4392754821018766254: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-20 05:45:33.466140 item: 1 id: 4333080951295024582: 0.12041192501783371 price: 11.4 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-20 05:46:35.541775 item: 0 id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 05:46:36.421535 item: 1 id: 4333080951295023382: 0.0949021652340889 price: 11.4 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 05:47:38.258751 item: 0 id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 05:48:40.393176 item: 1 id: 4325198923234922516: 0.09600537270307541 price: 11.59 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 05:49:25.421596: resp.url: https://steamcommunity.com/market/search?q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0&q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0 link: https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Asiimov%20%28Factory%20New%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 05:49:26.248585: resp.url: https://steamcommunity.com/market/search?q=P2000+%7C+%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%81+(%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D0%BE%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5)&q=P2000+%7C+%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%81+%28%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D0%BE%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%29 link: https://steamcommunity.com/market/listings/730/P2000%20%7C%20Coach%20Class%20%28Minimal%20Wear%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 05:49:27.755148 item: [0] id: 6935036715838294991: 0.06945759803056717 price: 266.62 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 05:49:57.817787: resp.url: https://steamcommunity.com/market/search?q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0&q=AK-47+%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2+%D0%9F%D1%80%D1%8F%D0%BC%D0%BE+%D1%81+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0 link: https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Asiimov%20%28Factory%20New%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 05:49:58.818496: resp.url: https://steamcommunity.com/market/search?q=P2000+%7C+%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%81+(%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D0%BE%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5)&q=P2000+%7C+%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC-%D0%BA%D0%BB%D0%B0%D1%81%D1%81+%28%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D0%BE%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%29 link: https://steamcommunity.com/market/listings/730/P2000%20%7C%20Coach%20Class%20%28Minimal%20Wear%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 05:50:00.508684 item: AK-47 Азимов Прямо с завода id: 6935036715838294991: 0.06945759803056717 price: 266.62 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 05:51:02.738878 item: P2000 | Эконом-класс (Немного поношенное) id: 4333080951295024582: 0.12041192501783371 price: 11.4 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 05:52:04.727909 item: AK-47 Азимов Прямо с завода id: 4392754821018766254: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 05:52:05.524223 item: P2000 | Эконом-класс (Немного поношенное) id: 4333080951295023382: 0.0949021652340889 price: 11.4 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 05:53:08.868595 item: AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 05:53:09.714975 item: AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-20 05:53:10.708932 item: AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-20 05:53:22.466219 item: AK-47 Азимов Прямо с завода id: 6935036715838294991: 0.06945759803056717 price: 266.62 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 05:53:42.458263 item: P2000 | Эконом-класс (Немного поношенное) id: 4325198923234922516: 0.09600537270307541 price: 11.59 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-20 05:54:25.055502 item: AK-47 Азимов Прямо с завода id: 4392754821018766254: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-20 05:54:25.977885 item: AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 05:54:26.798670 item: AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 05:54:27.319301 item: AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 05:54:38.964657 item: AK-47 Азимов Прямо с завода id: 6935036715838294991: 0.06945759803056717 price: 266.62 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 05:54:40.009755 item: AK-47 Азимов Прямо с завода id: 4392754821018766254: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 05:54:40.709016 item: AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 05:54:41.543978 item: AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 05:54:44.924326 item: P2000 | Эконом-класс (Немного поношенное) id: 4336457288976419621: 0.12128225713968277 price: 11.74 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-20 05:54:45.871615 item: P2000 | Эконом-класс (Немного поношенное) id: 4372488628494440024: 0.13202311098575592 price: 13.31 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-20 05:54:46.662353 item: P2000 | Эконом-класс (Немного поношенное) id: 4298171618658371991: 0.0993119329214096 price: 13.36 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 05:55:44.169299 item: AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 05:55:49.025868 item: P2000 | Эконом-класс (Немного поношенное) id: 4299296883566712948: 0.13220906257629395 price: 13.8 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-20 05:55:49.950608 item: P2000 | Эконом-класс (Немного поношенное) id: 7141072781378762624: 0.09708328545093536 price: 14.46 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 05:55:50.825709 item: P2000 | Эконом-класс (Немного поношенное) id: 4328564744068407346: 0.09945768117904663 price: 14.98 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 05:55:51.675807 item: P2000 | Эконом-класс (Немного поношенное) id: 5554669101031769979: 0.08724606037139893 price: 15.43 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 05:55:52.577737 item: P2000 | Эконом-класс (Немного поношенное) id: 6473403425007704025: 0.11972907930612564 price: 16.79 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 05:55:56.218400 item: AK-47 Азимов Прямо с завода id: 6935036715838294991: 0.06945759803056717 price: 266.62 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 05:55:56.806060 item: AK-47 Азимов Прямо с завода id: 4392754821018766254: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 05:55:57.420929 item: AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 05:55:58.276635 item: AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 05:56:55.124079 item: P2000 | Эконом-класс (Немного поношенное) id: 4302666523329137016: 0.14857104420661926 price: 17.25 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 05:56:56.194195 item: P2000 | Эконом-класс (Немного поношенное) id: 4304917504832350478: 0.12160047143697739 price: 18.43 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 05:56:57.068896 item: P2000 | Эконом-класс (Немного поношенное) id: 3337690850495880448: 0.10177629441022873 price: 18.43 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 05:56:59.524672 item: P2000 | Эконом-класс (Немного поношенное) id: 2063141626712319737: 0.10892580449581146 price: 20.58 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 05:57:00.374671 item: P2000 | Эконом-класс (Немного поношенное) id: 4318436547859403931: 0.11341015249490738 price: 24.57 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 05:58:02.376010 item: AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-20 05:58:03.474415 item: P2000 | Эконом-класс (Немного поношенное) id: 3943490319253771337: 0.12720055878162384 price: 26.02 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 05:58:13.625472 item: AK-47 Азимов Прямо с завода id: 6935036715838294991: 0.06945759803056717 price: 266.62 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 05:58:14.642314 item: AK-47 Азимов Прямо с завода id: 4392754821018766254: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 05:58:15.459261 item: AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-20 05:58:16.281258 item: AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 05:59:06.086928 item: P2000 | Эконом-класс (Немного поношенное) id: 427051895930571476: 0.12238597869873047 price: 30.72 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-20 05:59:06.966583 item: P2000 | Эконом-класс (Немного поношенное) id: 5762966220967632473: 0.1369909942150116 price: 49.99 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 05:59:07.891705 item: P2000 | Эконом-класс (Немного поношенное) id: 437179277031776110: 0.10302581638097763 price: 50.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 05:59:09.118921 item: P2000 | Эконом-класс (Немного поношенное) id: 4308306619519256703: 0.11133252084255219 price: 50.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 05:59:09.976169 item: P2000 | Эконом-класс (Немного поношенное) id: 3131643647823685743: 0.13243433833122253 price: 131.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-20 05:59:19.359126 item: AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 05:59:21.887639 item: P2000 | Эконом-класс (Немного поношенное) id: 4333080951295024582: 0.12041192501783371 price: 11.4 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 05:59:22.536999 item: P2000 | Эконом-класс (Немного поношенное) id: 4333080951295023382: 0.0949021652340889 price: 11.4 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-20 05:59:53.254102 item: AK-47 Азимов Прямо с завода id: 6935036715838294991: 0.06945759803056717 price: 266.62 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 05:59:53.834487 item: AK-47 Азимов Прямо с завода id: 4392754821018766254: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 05:59:54.482383 item: AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 05:59:55.444016 item: AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 06:00:24.883832 item: P2000 | Эконом-класс (Немного поношенное) id: 4325198923234922516: 0.09600537270307541 price: 11.59 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 06:00:25.686954 item: P2000 | Эконом-класс (Немного поношенное) id: 4336457288976419621: 0.12128225713968277 price: 11.74 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-20 06:00:26.635916 item: P2000 | Эконом-класс (Немного поношенное) id: 4372488628494525104: 0.13202311098575592 price: 13.34 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 06:00:27.555657 item: P2000 | Эконом-класс (Немного поношенное) id: 4298171618658371991: 0.0993119329214096 price: 13.36 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 06:00:57.869801 item: AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 06:01:09.483511 item: AK-47 Азимов Прямо с завода id: 6935036715838294991: 0.06945759803056717 price: 266.62 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 06:01:30.035185 item: P2000 | Эконом-класс (Немного поношенное) id: 4299296883566712948: 0.13220906257629395 price: 13.8 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 06:01:31.097043 item: P2000 | Эконом-класс (Немного поношенное) id: 7141072781378762624: 0.09708328545093536 price: 14.46 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-20 06:01:31.763983 item: P2000 | Эконом-класс (Немного поношенное) id: 4328564744068407346: 0.09945768117904663 price: 14.98 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-20 06:01:32.785527 item: P2000 | Эконом-класс (Немного поношенное) id: 5554669101031769979: 0.08724606037139893 price: 15.43 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 06:01:33.664038 item: P2000 | Эконом-класс (Немного поношенное) id: 6473403425007704025: 0.11972907930612564 price: 16.79 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 06:01:34.323396 item: P2000 | Эконом-класс (Немного поношенное) id: 4302666523329137016: 0.14857104420661926 price: 17.25 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 06:01:35.290648 item: P2000 | Эконом-класс (Немного поношенное) id: 4304917504832350478: 0.12160047143697739 price: 18.43 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 06:02:11.787874 item: AK-47 Азимов Прямо с завода id: 4392754821018766254: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 06:02:12.312900 item: AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 06:02:37.597423 item: P2000 | Эконом-класс (Немного поношенное) id: 3337690850495880448: 0.10177629441022873 price: 18.43 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 06:02:38.487571 item: P2000 | Эконом-класс (Немного поношенное) id: 2063141626712319737: 0.10892580449581146 price: 20.58 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 06:02:39.349203 item: P2000 | Эконом-класс (Немного поношенное) id: 4318436547859403931: 0.11341015249490738 price: 24.57 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-20 06:03:14.444888 item: AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 06:03:42.022936 item: P2000 | Эконом-класс (Немного поношенное) id: 3943490319253771337: 0.12720055878162384 price: 26.02 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 06:03:43.129300 item: P2000 | Эконом-класс (Немного поношенное) id: 427051895930571476: 0.12238597869873047 price: 30.72 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-20 06:03:43.945994 item: P2000 | Эконом-класс (Немного поношенное) id: 5762966220967632473: 0.1369909942150116 price: 49.99 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 06:03:44.538604 item: P2000 | Эконом-класс (Немного поношенное) id: 437179277031776110: 0.10302581638097763 price: 50.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 06:03:47.387201 item: P2000 | Эконом-класс (Немного поношенное) id: 4308306619519256703: 0.11133252084255219 price: 50.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 06:04:16.836942 item: AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 06:04:27.998180 item: AK-47 Азимов Прямо с завода id: 6935036715838294991: 0.06945759803056717 price: 266.62 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 06:04:28.899686 item: AK-47 Азимов Прямо с завода id: 4392754821018766254: 0.05981910973787308 price: 266.6 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 06:04:29.841181 item: AK-47 Азимов Прямо с завода id: 6247111607271692635: 0.06860178709030151 price: 272.29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 06:04:30.370993 item: AK-47 Азимов Прямо с завода id: 6618658576273706918: 0.0664747953414917 price: 272.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 06:04:31.391852 item: AK-47 Азимов Прямо с завода id: 5911593434846956638: 0.05837829038500786 price: 281.33 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 06:04:50.143276 item: P2000 | Эконом-класс (Немного поношенное) id: 3131643647823685743: 0.13243433833122253 price: 131.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 06:05:01.996857 item: P2000 | Эконом-класс (Немного поношенное) id: 4333080951295024582: 0.12041192501783371 price: 11.4 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 06:05:02.607105 item: P2000 | Эконом-класс (Немного поношенное) id: 4333080951295023382: 0.0949021652340889 price: 11.4 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 06:05:03.446745 item: P2000 | Эконом-класс (Немного поношенное) id: 4325198923234922516: 0.09600537270307541 price: 11.59 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 06:06:06.251949 item: P2000 | Эконом-класс (Немного поношенное) id: 4336457288976419621: 0.12128225713968277 price: 11.74 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 06:06:06.704702 item: P2000 | Эконом-класс (Немного поношенное) id: 4372488628494525104: 0.13202311098575592 price: 13.34 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 06:06:07.550154 item: P2000 | Эконом-класс (Немного поношенное) id: 4298171618658371991: 0.0993119329214096 price: 13.36 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-20 06:07:10.075311 item: P2000 | Эконом-класс (Немного поношенное) id: 4299296883566712948: 0.13220906257629395 price: 13.8 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-20 06:07:11.513401 item: P2000 | Эконом-класс (Немного поношенное) id: 7141072781378762624: 0.09708328545093536 price: 14.46 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 06:07:12.425182 item: P2000 | Эконом-класс (Немного поношенное) id: 4328564744068407346: 0.09945768117904663 price: 14.98 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 06:08:15.276394 item: P2000 | Эконом-класс (Немного поношенное) id: 5554669101031769979: 0.08724606037139893 price: 15.43 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 06:08:16.106800 item: P2000 | Эконом-класс (Немного поношенное) id: 6473403425007704025: 0.11972907930612564 price: 16.79 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 06:08:16.936527 item: P2000 | Эконом-класс (Немного поношенное) id: 4302666523329137016: 0.14857104420661926 price: 17.25 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 06:08:17.606625 item: P2000 | Эконом-класс (Немного поношенное) id: 4304917504832350478: 0.12160047143697739 price: 18.43 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 06:09:20.259730 item: P2000 | Эконом-класс (Немного поношенное) id: 3337690850495880448: 0.10177629441022873 price: 18.43 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 06:09:20.866449 item: P2000 | Эконом-класс (Немного поношенное) id: 2063141626712319737: 0.10892580449581146 price: 20.58 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 06:09:21.923034 item: P2000 | Эконом-класс (Немного поношенное) id: 4318436547859403931: 0.11341015249490738 price: 24.57 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 06:09:22.893032 item: P2000 | Эконом-класс (Немного поношенное) id: 3943490319253771337: 0.12720055878162384 price: 26.02 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 06:09:23.500258 item: P2000 | Эконом-класс (Немного поношенное) id: 427051895930571476: 0.12238597869873047 price: 30.72 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 06:10:26.145916 item: P2000 | Эконом-класс (Немного поношенное) id: 5762966220967632473: 0.1369909942150116 price: 49.99 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 06:10:27.429412 item: P2000 | Эконом-класс (Немного поношенное) id: 437179277031776110: 0.10302581638097763 price: 50.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 06:10:28.451526 item: P2000 | Эконом-класс (Немного поношенное) id: 4308306619519256703: 0.11133252084255219 price: 50.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 06:11:31.289438 item: P2000 | Эконом-класс (Немного поношенное) id: 3131643647823685743: 0.13243433833122253 price: 131.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 06:12:05.119794 item: P2000 | Эконом-класс (Немного поношенное) id: 4333080951295024582: 0.12041192501783371 price: 11.4 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 06:12:05.616039 item: P2000 | Эконом-класс (Немного поношенное) id: 4333080951295023382: 0.0949021652340889 price: 11.4 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 06:12:06.505795 item: P2000 | Эконом-класс (Немного поношенное) id: 4325198923234922516: 0.09600537270307541 price: 11.59 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 06:12:07.375852 item: P2000 | Эконом-класс (Немного поношенное) id: 4336457288976419621: 0.12128225713968277 price: 11.74 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-20 06:13:11.065899 item: P2000 | Эконом-класс (Немного поношенное) id: 4372488628494525104: 0.13202311098575592 price: 13.34 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 06:13:11.985989 item: P2000 | Эконом-класс (Немного поношенное) id: 4298171618658371991: 0.0993119329214096 price: 13.36 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-20 06:13:13.157128 item: P2000 | Эконом-класс (Немного поношенное) id: 4299296883566712948: 0.13220906257629395 price: 13.8 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 06:13:14.105965 item: P2000 | Эконом-класс (Немного поношенное) id: 7141072781378762624: 0.09708328545093536 price: 14.46 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 06:13:14.721507 item: P2000 | Эконом-класс (Немного поношенное) id: 4328564744068407346: 0.09945768117904663 price: 14.98 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-20 06:13:15.587534 item: P2000 | Эконом-класс (Немного поношенное) id: 5554669101031769979: 0.08724606037139893 price: 15.43 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 06:14:18.425300 item: P2000 | Эконом-класс (Немного поношенное) id: 6473403425007704025: 0.11972907930612564 price: 16.79 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 06:14:19.320540 item: P2000 | Эконом-класс (Немного поношенное) id: 4302666523329137016: 0.14857104420661926 price: 17.25 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 06:15:21.931637 item: P2000 | Эконом-класс (Немного поношенное) id: 4304917504832350478: 0.12160047143697739 price: 18.43 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-20 06:15:22.779470 item: P2000 | Эконом-класс (Немного поношенное) id: 3337690850495880448: 0.10177629441022873 price: 18.43 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-20 06:15:23.735477 item: P2000 | Эконом-класс (Немного поношенное) id: 2063141626712319737: 0.10892580449581146 price: 20.58 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-20 06:15:24.644840 item: P2000 | Эконом-класс (Немного поношенное) id: 4318436547859403931: 0.11341015249490738 price: 24.57 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 06:15:25.474263 item: P2000 | Эконом-класс (Немного поношенное) id: 3943490319253771337: 0.12720055878162384 price: 26.02 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-20 06:15:27.982037 item: P2000 | Эконом-класс (Немного поношенное) id: 427051895930571476: 0.12238597869873047 price: 30.72 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-20 06:15:30.635945 item: P2000 | Эконом-класс (Немного поношенное) id: 5762966220967632473: 0.1369909942150116 price: 49.99 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-20 06:15:31.621524 item: P2000 | Эконом-класс (Немного поношенное) id: 437179277031776110: 0.10302581638097763 price: 50.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-20 06:16:34.333023 item: P2000 | Эконом-класс (Немного поношенное) id: 4308306619519256703: 0.11133252084255219 price: 50.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-20 06:17:38.431329 item: P2000 | Эконом-класс (Немного поношенное) id: 3131643647823685743: 0.13243433833122253 price: 131.95 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-20 06:18:09.563799 item: P2000 | Эконом-класс (Немного поношенное) id: 4333080951295024582: 0.12041192501783371 price: 11.4 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-20 06:18:10.687977 item: P2000 | Эконом-класс (Немного поношенное) id: 4333080951295023382: 0.0949021652340889 price: 11.4 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-20 06:19:13.363744 item: P2000 | Эконом-класс (Немного поношенное) id: 4325198923234922516: 0.09600537270307541 price: 11.59 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-21 02:11:14.516573 item: itemname id: 4390503095224343403: 0.11977286636829376 price: 0.04 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-21 02:12:18.733108 item: itemname id: 4395006694799899166: 0.14951211214065552 price: 0.04 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-21 02:12:19.960266 item: itemname id: 4398384394499693056: 0.14144980907440186 price: 0.04 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-21 02:12:21.037767 item: itemname id: 4371362796697581613: 0.09165376424789429 price: 0.04 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-21 02:12:21.965034 item: itemname id: 4387125395507137775: 0.12294761836528778 price: 0.04 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-21 02:13:24.684183 item: itemname id: 4401762094293727714: 0.08616063743829727 price: 0.04 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-21 02:13:25.670682 item: itemname id: 4395006694799770256: 0.14864444732666016 price: 0.04 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-21 02:13:26.634070 item: itemname id: 4391628994963971397: 0.1435365229845047 price: 0.04 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-21 02:13:29.434122 item: itemname id: 4374740496420115308: 0.12455204129219055 price: 0.04 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-21 02:13:31.754016 item: itemname id: 4395006694800067136: 0.1337435394525528 price: 0.04 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-21 02:14:35.434266 item: itemname id: 4401762094293572914: 0.09164148569107056 price: 0.04 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-21 02:14:36.433814 item: itemname id: 4401762036183019264: 0.12727773189544678 price: 0.04 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-21 02:14:37.570016 item: itemname id: 4401762036182792104: 0.1388208568096161 price: 0.04 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-21 02:14:38.673182 item: itemname id: 4401762094292742394: 0.14289884269237518 price: 0.04 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-21 02:14:39.370293 item: itemname id: 4401762094292687134: 0.14858339726924896 price: 0.04 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-21 02:14:40.072870 item: itemname id: 4395006636686553926: 0.13630881905555725 price: 0.04 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-21 02:14:41.021402 item: itemname id: 4401762094293120274: 0.13155785202980042 price: 0.04 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-21 02:22:29.041606 item: itemname id: 4378118137967452461: 0.10808779299259186 price: 0.04 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-21 02:22:30.013675 item: itemname id: 4378118137967770971: 0.14764927327632904 price: 0.04 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-21 02:22:31.055647 item: itemname id: 4378118137967304681: 0.12974467873573303 price: 0.04 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-21 02:22:31.830539 item: itemname id: 4378118137967304141: 0.1239074170589447 price: 0.04 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-21 02:32:38.650417 item: itemname id: 4378118137967452461: 0.10808779299259186 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-21 02:32:39.610201 item: itemname id: 4378118137967304681: 0.12974467873573303 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-21 02:32:40.570705 item: itemname id: 4378118137967304141: 0.1239074170589447 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-21 02:32:41.610115 item: itemname id: 4378118137967304321: 0.1442849487066269 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-21 02:32:42.543644 item: itemname id: 4378118137967304531: 0.12578879296779633 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-21 02:32:43.769967 item: itemname id: 4378118137966239351: 0.1391097903251648 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-21 02:32:44.798989 item: itemname id: 4378118137966239051: 0.14663447439670563 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-21 02:33:48.092266 item: itemname id: 4378118137966264551: 0.12064190953969955 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-21 02:33:49.036325 item: itemname id: 4378118137966700811: 0.12376900017261505 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-21 02:33:50.012081 item: itemname id: 4378118137966532721: 0.1288042813539505 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-21 02:34:52.766171 item: itemname id: 4378118137967770971: 0.14764927327632904 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-21 02:34:53.784819 item: itemname id: 4378118196079267161: 0.1401214897632599 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-21 02:35:56.566470 item: itemname id: 4378118196079568151: 0.1367892324924469 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-21 02:35:57.568972 item: itemname id: 4378118196079752921: 0.12489394843578339 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-21 02:35:58.332753 item: itemname id: 4378118196079126551: 0.13813062012195587 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-21 02:35:58.969115 item: itemname id: 4398384336386338066: 0.12878717482089996 price: 
+						076\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-21 02:36:00.015337 item: itemname id: 4398384394499290816: 0.11988615989685059 price: 
+						076\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-21 02:37:02.974263 item: itemname id: 4398384394499145076: 0.11060158908367157 price: 
+						076\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-21 02:38:05.571014 item: itemname id: 4398384394498456306: 0.1297113448381424 price: 
+						076\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-21 02:38:06.576014 item: itemname id: 4384873537446610738: 0.13429343700408936 price: 
+						076\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-21 02:38:07.243198 item: itemname id: 4375866338229568249: 0.12073542922735214 price: 
+						076\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-21 02:38:08.254548 item: itemname id: 4392754836871357074: 0.10962365567684174 price: 
+						076\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-21 02:38:09.275768 item: itemname id: 4380369996026506360: 0.10222774744033813 price: 
+						076\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-21 02:38:10.224349 item: itemname id: 4392754894986089844: 0.12287913262844086 price: 
+						076\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-21 02:38:11.455741 item: itemname id: 4391628994963169527: 0.1291467547416687 price: 
+						076\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-21 02:38:12.494651 item: itemname id: 4385999495466438269: 0.13353849947452545 price: 
+						076\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-21 02:38:13.693405 item: itemname id: 4401762094292319904: 0.13480161130428314 price: 
+						076\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-21 02:38:14.334960 item: itemname id: 4375866396343031839: 0.1385631412267685 price: 
+						076\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-21 02:38:15.329517 item: itemname id: 4382621737616418383: 0.07055535167455673 price: 
+						078\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-21 02:38:15.871067 item: itemname id: 4375866396343947799: 0.09498129785060883 price: 
+						078\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-21 02:39:18.728643 item: itemname id: 4387125337393551905: 0.13698658347129822 price: 
+						078\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-21 02:39:19.372838 item: itemname id: 4392754894986215094: 0.14937186241149902 price: 
+						078\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-21 02:39:20.284418 item: itemname id: 4376992296250611650: 0.11946586519479752 price: 
+						078\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-21 02:40:23.482267 item: itemname id: 4399510236291072257: 0.13710059225559235 price: 
+						081\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-21 02:40:24.575305 item: itemname id: 4374740438305009938: 0.1472407430410385 price: 
+						082\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-21 02:40:25.140722 item: itemname id: 4374740438305010388: 0.14216221868991852 price: 
+						082\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-21 02:42:30.647674 item: itemname id: 4374740438305010088: 0.13655336201190948 price: 
+						082\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-21 02:42:31.639464 item: itemname id: 4374740438305010478: 0.14440713822841644 price: 
+						082\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-21 02:42:32.239369 item: itemname id: 4399510236290870087: 0.13078318536281586 price: 
+						082\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-21 02:42:33.467607 item: itemname id: 4378118137965355851: 0.12689968943595886 price: 
+						083\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-21 02:42:34.538586 item: itemname id: 4383747637522383117: 0.14244148135185242 price: 
+						083\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-21 02:42:35.459773 item: itemname id: 4393880736777511975: 0.14882467687129974 price: 
+						084\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-21 02:42:36.047646 item: itemname id: 4388251237282638781: 0.07016033679246902 price: 
+						084\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-21 02:42:37.379102 item: itemname id: 4400636136103548060: 0.13362012803554535 price: 
+						084\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-21 02:42:38.019104 item: itemname id: 4384873537448270458: 0.14896981418132782 price: 
+						084\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-21 02:42:39.300522 item: itemname id: 4395006636684662666: 0.13689252734184265 price: 
+						084\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-21 02:42:39.849068 item: itemname id: 4380369937914122620: 0.14564906060695648 price: 
+						084\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-21 02:43:42.554569 item: itemname id: 4391628994963063027: 0.12330731749534607 price: 
+						084\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-21 02:44:46.627908 item: itemname id: 4397258494574769345: 0.14294962584972382 price: 
+						084\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-21 02:44:49.199011 item: itemname id: 4381495895934477521: 0.12146476656198502 price: 
+						084\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-21 02:45:01.160338 item: itemname id: 4378118196080426271: 0.1400333046913147 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-21 02:45:02.015658 item: itemname id: 4378118196080401791: 0.13389506936073303 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-21 02:46:04.761567 item: itemname id: 4378118137966700811: 0.12376900017261505 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-21 02:46:05.861851 item: itemname id: 4378118137966239351: 0.1391097903251648 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-21 02:46:06.808282 item: itemname id: 4378118137966239051: 0.14663447439670563 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-21 02:47:09.609494 item: itemname id: 4378118137966264551: 0.12064190953969955 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-21 02:48:12.876069 item: itemname id: 4378118137966532721: 0.1288042813539505 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-21 02:48:14.023336 item: itemname id: 4378118137967046711: 0.13562482595443726 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-21 02:48:15.063592 item: itemname id: 4378118137967452461: 0.10808779299259186 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-21 02:50:20.878141 item: itemname id: 4378118137967304681: 0.12974467873573303 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-21 02:51:23.584606 item: itemname id: 4378118137967304141: 0.1239074170589447 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-21 02:51:24.691559 item: itemname id: 4378118137967304321: 0.1442849487066269 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-21 02:51:25.491044 item: itemname id: 4378118137967304531: 0.12578879296779633 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-21 02:51:26.062555 item: itemname id: 4378118137966858101: 0.13860785961151123 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-21 02:51:26.835924 item: itemname id: 4378118196079126551: 0.13813062012195587 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-21 02:51:27.785099 item: itemname id: 4378118137967691531: 0.08930428326129913 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-21 02:52:30.839387 item: itemname id: 4378118137967770971: 0.14764927327632904 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-21 02:52:31.935597 item: itemname id: 4378118196079752921: 0.12489394843578339 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-21 02:52:32.986305 item: itemname id: 4378118196079568151: 0.1367892324924469 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-21 02:52:33.936962 item: itemname id: 4378118196079267161: 0.1401214897632599 price: 
+						073\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-21 02:52:34.896332 item: itemname id: 4398384394498456306: 0.1297113448381424 price: 
+						076\u20b4					 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-21 02:54:12.494394 item: itemname id: 4401762094292687134: 0.14858339726924896 price: 71.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-21 02:54:13.767085 item: itemname id: 4378118196080401791: 0.13389506936073303 price: 73.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-21 02:54:14.749700 item: itemname id: 4378118196080426271: 0.1400333046913147 price: 73.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-21 02:54:15.810613 item: itemname id: 4375866396344372929: 0.1394789218902588 price: 73.0 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-21 02:55:04.454190 item: itemname id: 4401762094292687134: 0.14858339726924896 price: 0.71 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-21 02:55:05.548319 item: itemname id: 4378118196080401791: 0.13389506936073303 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-21 02:55:06.637172 item: itemname id: 4378118196080426271: 0.1400333046913147 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-21 02:55:07.401607 item: itemname id: 4375866396344372929: 0.1394789218902588 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-21 02:55:08.448330 item: itemname id: 4378118137966858101: 0.13860785961151123 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-21 02:55:09.165765 item: itemname id: 4378118137967046711: 0.13562482595443726 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-21 02:55:10.299185 item: itemname id: 4378118137967691531: 0.08930428326129913 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-21 02:55:11.007899 item: itemname id: 4378118137967452461: 0.10808779299259186 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-21 02:56:13.811071 item: itemname id: 4378118137967304681: 0.12974467873573303 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-21 02:58:47.997846 item: itemname id: 4378118196080426271: 0.1400333046913147 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-21 02:58:48.020740 item: itemname id: 4378118196080426271: 0.1400333046913147 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-21 03:01:23.852048 item: itemname id: 4378118196080426271: 0.1400333046913147 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-21 03:01:25.075231 item: itemname id: 4375866396344372929: 0.1394789218902588 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-21 03:01:25.817032 item: itemname id: 4378118137966858101: 0.13860785961151123 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-21 03:07:41.001523 item: itemname id: 4378118196080426271: 0.1400333046913147 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-21 03:07:42.129473 item: itemname id: 4375866396344372929: 0.1394789218902588 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-21 03:07:43.356455 item: itemname id: 4378118137966858101: 0.13860785961151123 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-21 03:07:44.254898 item: itemname id: 4378118137967046711: 0.13562482595443726 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-21 03:07:45.302863 item: itemname id: 4378118137967691531: 0.08930428326129913 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-21 03:08:46.744298 item: itemname id: 4378118196080426271: 0.1400333046913147 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-21 03:08:47.712025 item: itemname id: 4375866396344372929: 0.1394789218902588 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-21 03:26:01.009669 item: itemname id: 4401762036183461554: 0.12989541888237 price: 0.71 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.142:30013/'}
+INFO:root:2023-09-21 03:26:01.934431 item: itemname id: 4401762094292687134: 0.14858339726924896 price: 0.71 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-21 03:26:02.987043 item: itemname id: 4378118196080401791: 0.13389506936073303 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-21 03:26:04.086913 item: itemname id: 4378118196080426271: 0.1400333046913147 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-21 03:26:05.310048 item: itemname id: 4375866396344372929: 0.1394789218902588 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-21 03:26:06.076708 item: itemname id: 4378118137966858101: 0.13860785961151123 price: 0.73 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-21 05:55:55.001198 BUY>>> item: itemname
+id: 4375866396344372929
+float : 0.1394789218902588
+price: 0.73
+Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-21 06:02:03.138733: resp.url: https://steamcommunity.com/market/search?q=P90+%7C+Sand+Spray&q=P90+%7C+Sand+Spray link: https://steamcommunity.com/market/listings/730/P90%20%7C%20Sand%20Spray%20%28Well-Worn%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.166:30013/'}
+INFO:root:2023-09-21 06:02:08.437832 BUY>>> item: itemname
+id: 4382621795727752843
+float : 0.38307762145996094
+price: 0.72
+Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-21 06:05:14.543650: resp.url: https://steamcommunity.com/market/search?q=P90+%7C+Sand+Spray&q=P90+%7C+Sand+Spray link: https://steamcommunity.com/market/listings/730/P90%20%7C%20Sand%20Spray%20%28Well-Worn%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.90:30013/'}
+INFO:root:2023-09-21 06:05:19.842513 BUY>>> item: itemname
+id: 4382621795727752663
+float : 0.42378294467926025
+price: 0.72
+Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-21 06:06:35.264896: resp.url: https://steamcommunity.com/market/search?q=P90+%7C+Sand+Spray&q=P90+%7C+Sand+Spray link: https://steamcommunity.com/market/listings/730/P90%20%7C%20Sand%20Spray%20%28Field-Tested%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-21 06:06:38.989689 BUY>>> item: itemname
+id: 4375866396344773069
+float : 0.27319782972335815
+price: 0.7
+Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-21 06:07:29.725338: resp.url: https://steamcommunity.com/market/search?q=P90+%7C+Sand+Spray&q=P90+%7C+Sand+Spray link: https://steamcommunity.com/market/listings/730/P90%20%7C%20Sand%20Spray%20%28Field-Tested%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-21 06:07:32.281776 BUY>>> item: itemname
+id: 4375866396344773069
+float : 0.27319782972335815
+price: 0.7
+Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.21:30013/'}
+INFO:root:2023-09-21 06:11:04.593123: resp.url: https://steamcommunity.com/market/search?q=P90+%7C+Sand+Spray&q=P90+%7C+Sand+Spray link: https://steamcommunity.com/market/listings/730/P90%20%7C%20Sand%20Spray%20%28Minimal%20Wear%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-21 06:11:09.646919 BUY>>> item: itemname
+id: 4400636194215437100
+float : 0.14250598847866058
+price: 0.85
+spent: 1.7
+Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.105:30013/'}
+INFO:root:2023-09-21 06:12:31.870370: resp.url: https://steamcommunity.com/market/search?q=AUG+%7C+Contractor&q=AUG+%7C+Contractor link: https://steamcommunity.com/market/listings/730/AUG%20%7C%20Contractor%20%28Battle-Scarred%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.6:30013/'}
+INFO:root:2023-09-21 06:12:35.573115 BUY>>> item: itemname
+id: 4392754894987381524
+float : 0.5417730212211609
+price: 0.66
+spent: 1.32
+Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
+INFO:root:2023-09-21 06:12:56.204884: resp.url: https://steamcommunity.com/market/search?q=AUG+%7C+Contractor&q=AUG+%7C+Contractor link: https://steamcommunity.com/market/listings/730/AUG%20%7C%20Contractor%20%28Field-Tested%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.86:30013/'}
+INFO:root:2023-09-21 06:12:58.804703 BUY>>> item: itemname
+id: 4390503095225097393
+float : 0.3610607385635376
+price: 0.7
+spent: 0.7
+Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.227.8:30013/'}
+INFO:root:2023-09-21 06:40:01.214749: resp.url: https://steamcommunity.com/market/search?q=AUG+%7C+Contractor&q=AUG+%7C+Contractor link: https://steamcommunity.com/market/listings/730/AUG%20%7C%20Contractor%20%28Battle-Scarred%29 Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.164:30013/'}
+INFO:root:2023-09-21 06:40:04.687636 BUY>>> item: itemname
+id: 4384873595561815618
+float : 0.49769994616508484
+price: 0.65
+spent: 0.65
+Proxy: {'https': 'http://edikaraslanov_gmail_com:4bc4ca9131@193.176.220.129:30013/'}
