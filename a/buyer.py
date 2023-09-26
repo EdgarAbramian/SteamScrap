@@ -1,6 +1,6 @@
 import requests
 from fake_useragent import UserAgent
-from config import cookebuy
+from my_config import cookebuy
 s = requests.Session()
 ua = UserAgent()
 headers = {
