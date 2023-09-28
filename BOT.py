@@ -1,4 +1,5 @@
 import re
+import threading
 import time
 import random
 import logging
@@ -6,19 +7,7 @@ import requests
 import concurrent.futures
 from random import randint
 from bs4 import BeautifulSoup
-from tenacity import retry, stop_after_attempt, wait_exponential
 import json
-
-
-def set_proxy():
-    wrong_proxy = True
-    while wrong_proxy:
-        try:
-            s.proxies.update(prox_list[randint(0, len(prox_list) - 1)])
-            wrong_proxy = False
-        except requests.exceptions.ProxyError:
-            logging.info('requests.exceptions.ProxyError')
-
 
 logging.basicConfig(
     level=logging.INFO,
@@ -190,13 +179,22 @@ payload = {
     'currency': '18'
 }
 
+
+def set_proxy(s):
+    start = time.time()
+    wrong_proxy = True
+    while wrong_proxy:
+        try:
+            s.proxies.update(prox_list[randint(0, len(prox_list) - 1)])
+            wrong_proxy = False
+        except requests.exceptions.ProxyError:
+            logging.info('requests.exceptions.ProxyError')
+    print('proxy time', time.time() - start)
+
+
 headers = {
     'User-agent': ua[random.randint(0, len(ua) - 1)]
 }
-
-s = requests.Session()
-
-set_proxy()
 
 
 def set_buy_headers(listing_id, refer_link) -> dict:
@@ -246,72 +244,87 @@ def get_price(price_code):
     return int(f)
 
 
-@retry(
-    stop=stop_after_attempt(10),  # Maximum number of retries
-    wait=wait_exponential(multiplier=1, min=1, max=60)  # Exponential backoff
-)
-def get_float(inspectLink):
-    isfl = True
-    try:
-        set_proxy()
-        float_payload = {'inspectLink': inspectLink}
-
-        while isfl:
-            try:
-                get_float_resp = s.get(url=float_cheacker, params=float_payload, headers=headers).json()
-                isfl = False
-            except:
-                time.sleep(1.5)
-                set_proxy()
-
-        return get_float_resp['paintwear']
-    except:
-        logging.info(f'GET_FLOAT ERROR{s.proxies} link: {inspectLink}')
+'''                             REPARE                                  '''
 
 
-def get_url_to_item(itemname, session):
+def get_url_to_item(itemname):
+    session = requests.Session()
+
+    session.proxies.update(prox_list[randint(0, len(prox_list) - 1)])
+
     itempayload = {'q': itemname, }
     try:
-        try:
-            resp = session.get(url=base_market_url + itemname.replace(' ', '+'), params=itempayload, cookies=cookies())
-            soup = BeautifulSoup(resp.text, 'lxml')
-            link_item = soup.find('a', class_='market_listing_row_link', id="resultlink_0").get('href')
-        except:
-            set_proxy()
-            resp = session.get(url=base_market_url + itemname.replace(' ', '+'), params=itempayload, cookies=cookies())
-            soup = BeautifulSoup(resp.text, 'lxml')
-            link_item = soup.find('a', class_='market_listing_row_link', id="resultlink_0").get('href')
+        while True:
+            try:
+                resp = session.get(url=base_market_url + itemname.replace(' ', '+'), params=itempayload,
+                                   cookies=cookies(),
+                                   timeout=3)
+                soup = BeautifulSoup(resp.text, 'lxml')
+                link_item = soup.find('a', class_='market_listing_row_link', id="resultlink_0").get('href')
+                logging.info(f'resp.url: {resp.url} link: {link_item} Proxy: {session.proxies}')
+                return link_item
+            except:
+                session.proxies.update(prox_list[randint(0, len(prox_list) - 1)])
+
     except:
         logging.info(f'{itemname}: URL IS NOT FOUND')
 
-    logging.info(f'resp.url: {resp.url} link: {link_item} Proxy: {session.proxies}')
 
-    return link_item
+def get_float(inspectLink):
+    session = requests.Session()
+
+    session.proxies.update(prox_list[randint(0, len(prox_list) - 1)])
+
+    float_cheacker = 'https://tradeit.gg/api/steam/v1/steams/float-item-finder'
+    float_cheacker = 'https://api-float.cs.trade/getFloat?url='
+
+    float_payload = {'inspectLink': inspectLink}
+    try:
+
+        while True:
+            try:
+                get_float_resp = session.get(url=float_cheacker + inspectLink, headers=headers,
+                                             timeout=3).json()
+                return get_float_resp['result']['floatvalue']
+            except:
+                session.proxies.update(prox_list[randint(0, len(prox_list) - 1)])
+                # try:
+                #     get_float_resp = session.get(url=float_cheacker1, headers=headers, timeout=3).json()
+                #     return get_float_resp['iteminfo']['floatvalue']
+                # except:
+                #     session.proxies.update(prox_list[randint(0, len(prox_list) - 1)])
+    except:
+        logging.info(f'GET_FLOAT ERROR{session.proxies} link: {inspectLink}')
 
 
 def item_search(itemname, link_to_item, maxprice, minfloat):
+    session = requests.Session()
 
-    run = True
+    session.proxies.update(prox_list[randint(0, len(prox_list) - 1)])
+
     logging.info(f'{itemname} is STARTED')
 
-    while run:
-        logging.info(f'\nBOT IS SEARCHING item: {itemname}')
-        set_proxy()
+    while True:
+        logging.info(f'BOT IS SEARCHING item: {itemname}')
 
-        try:
-
-            items1 = s.get(url=link_to_item + page_url, params=payload)
-        except requests.exceptions.ProxyError:
-            set_proxy()
-            items1 = s.get(url=link_to_item + page_url, params=payload)
-
-        soup = BeautifulSoup(str(items1.json()['results_html']), 'lxml')
+        session.proxies.update(prox_list[randint(0, len(prox_list) - 1)])
+        while True:
+            try:
+                items1 = session.get(url=link_to_item + page_url, params=payload)
+                break
+            except:
+                session.proxies.update(prox_list[randint(0, len(prox_list) - 1)])
 
         items = items1.json()
 
-        for i in items['listinginfo']:
+        soup = BeautifulSoup(str(items1.json()['results_html']), 'lxml')
 
+        logging.info(f"NEW LISTING {itemname}: {len(items['listinginfo'])}")
+
+        for i in items['listinginfo']:
             try:
+                loop_start = time.time()
+
                 try:
                     price_code = (soup.find("div", id=f'listing_{i}', ).find('span', {
                         'class': "market_listing_price market_listing_price_with_fee"})).text.replace(',', '.')
@@ -326,6 +339,7 @@ def item_search(itemname, link_to_item, maxprice, minfloat):
                     subtotal_code = (soup.find("div", id=f'listing_{i}', ).find('span', {
                         'class': "market_listing_price market_listing_price_without_fee"})).text.replace(',', '.')
                     logging.info(f'PRICE SCRAPPING ERROR{i}')
+
                 try:
                     price = get_price(price_code)
                     subtotal = get_price(subtotal_code)
@@ -334,25 +348,17 @@ def item_search(itemname, link_to_item, maxprice, minfloat):
                 except:
                     logging.info(f'PRICE EXCH ERROR {i} price-code = {price_code} subtotal: {subtotal}')
 
-                if float(price / 100) <= maxprice:
-
-                    set_proxy()
-                    try:
-                        listingid = items['listinginfo'][i]
-                        assetid = listingid['asset']['id']
-                        item_base_link = str(listingid['asset']['market_actions'][0]['link']).replace('%listingid%',
-                                                                                                      str(i)).replace(
-                            '%assetid%', str(assetid))
-                    except:
-                        logging.info(f'GET INFO FROM JSON ERROR listingid assetid')
-
+                if price / 100 <= maxprice:
+                    listingid = items['listinginfo'][i]
+                    assetid = listingid['asset']['id']
+                    item_base_link = str(listingid['asset']['market_actions'][0]['link']).replace('%listingid%',
+                                                                                                  str(i)).replace(
+                        '%assetid%', str(assetid))
                     try:
                         item_float = get_float(item_base_link)
                     except:
-                        set_proxy()
-                        item_float = get_float(item_base_link)
+                        logging.info("FLOAT CALCULATING ERROR")
 
-                    buymess = None
                     c = {
                         'timezoneOffset	': '14400,0',
                         'browserid': str(_all_cookies_['browserid']),
@@ -368,47 +374,43 @@ def item_search(itemname, link_to_item, maxprice, minfloat):
 
                     if item_float <= minfloat:
                         try:
-
-                            buy = s.post(f'https://steamcommunity.com/market/buylisting/{i}',
-                                         data=set_buy_payload(subtotal, fee, price),
-                                         headers=set_buy_headers(i, link_to_item),
-                                         cookies=c)  # set_buy_headers(i, link_to_item)
-
+                            buy = session.post(f'https://steamcommunity.com/market/buylisting/{i}',
+                                               data=set_buy_payload(subtotal, fee, price),
+                                               headers=set_buy_headers(i, link_to_item),
+                                               cookies=c)
                             if int(buy.json()["wallet_info"]["success"]) == 1:
                                 logging.info(
-                                    f'BUY>>> item: {itemname}\nid: {i}\nfloat : {item_float}\nprice: {price / 100}\n{buy.content} ')
-
-                                time.sleep(1)
+                                    f'ITEM WAS BOUGHT\n\t\t\t\t\t\t\t\t\titem: {itemname}\n\t\t\t\t\t\t\t\t\tid: {i}\n\t\t\t\t\t\t\t\t\tfloat: {item_float}\n\t\t\t\t\t\t\t\t\tprice: {price / 100}')
                             else:
                                 logging.info(
                                     f'UNABLE TO BUY>>> item: {itemname}\nid: {i}\n{buy.content}')
                         except:
                             logging.info(
-                                f'UNABLE TO BUY>>> item: {itemname}\nid: {i}\n{buymess}')
+                                f'UNABLE TO BUY>>> item: {itemname}\nid: {i}\n{buy.content}')
                 else:
+                    # print("break")
                     break
+                # print(f'{itemname}: {item_float} time = {time.time() - loop_start}')
             except:
-                logging.info(f'ID ERROR ID = {i}')
-        time.sleep(10)
+                logging.info("ID ERROR OCCURRED")
 
 
 with open('items.json') as f:
     _items_data = json.load(f)
 for i in _items_data:
-    _items_data[i]['link'] = get_url_to_item(_items_data[i]['name'], s)
+    _items_data[i]['link'] = get_url_to_item(_items_data[i]['name'])
 logging.info(f'ITEMS>>> item: {_items_data}\n')
 
-with concurrent.futures.ThreadPoolExecutor() as executor:
-    futures = []
-    for id_item in _items_data:
-        if (str(_items_data[id_item]['price']).replace('.', '').isdecimal() and (_items_data[id_item]['float']).replace(
-                '.', '').isdecimal()):
-            futures.append(
-                executor.submit(item_search, itemname=_items_data[id_item]['name'],
-                                link_to_item=_items_data[id_item]['link'],
-                                maxprice=float(_items_data[id_item]['price']),
-                                minfloat=float(_items_data[id_item]['float'])))
-        else:
-            logging.info(f"INCORRECT INPUT {_items_data[id_item]['name']}")
-    for future in concurrent.futures.as_completed(futures):
-        future.result()
+res = None
+
+for id_item in _items_data:
+    if (str(_items_data[id_item]['price']).replace('.', '').isdecimal() and (_items_data[id_item]['float']).replace(
+            '.', '').isdecimal()):
+        res = threading.Thread(target=item_search, args=(_items_data[id_item]['name'], _items_data[id_item]['link'],
+                                                         float(_items_data[id_item]['price']),
+                                                         float(_items_data[id_item]['float'])))
+        res.start()
+    else:
+        logging.info(f"INCORRECT INPUT {_items_data[id_item]['name']}")
+
+res.join()
