@@ -312,6 +312,7 @@ def item_search(itemname, link_to_item, maxprice, minfloat):
         for i in items['listinginfo']:
 
             try:
+
                 try:
                     price_code = (soup.find("div", id=f'listing_{i}', ).find('span', {
                         'class': "market_listing_price market_listing_price_with_fee"})).text.replace(',', '.')
